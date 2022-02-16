@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 6: Communications'
 uid: 41d41aad-b959-8d1c-a97c-e913433a3a5c
 ---

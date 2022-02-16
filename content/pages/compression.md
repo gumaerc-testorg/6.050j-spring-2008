@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 3: Compression'
 uid: 2dcc8474-126c-fe52-468d-88a8358a4a30
 ---

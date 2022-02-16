@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Units 1 & 2: Bits and Codes'
 uid: 4da88728-f4c9-8662-0aaa-7541b3fb2136
 ---

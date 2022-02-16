@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Solutions to a problem set on information and entropy.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-050j-information-and-entropy-spring-2008/68491ddef6a05e7f72a27b00b66f09dc_MIT6_050JS08_ps_07_sol.pdf
+file: /media/courses/6-050j-information-and-entropy-spring-2008/68491ddef6a05e7f72a27b00b66f09dc_MIT6_050JS08_ps_07_sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Unit 8: Inference'
+parent_type: CourseSection
 resourcetype: Document
 title: Problem Set 7 Solutions
 uid: 68491dde-f6a0-5e7f-72a2-7b00b66f09dc

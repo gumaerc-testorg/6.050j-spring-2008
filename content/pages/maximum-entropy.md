@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 9: Maximum Entropy'
 uid: b12913cf-0777-b412-6ec0-4bb3ff6fdcae
 ---

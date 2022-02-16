@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 10: Physical Systems'
 uid: 04d3de47-9068-805c-423b-0e0a1cb71ed7
 ---

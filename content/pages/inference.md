@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 8: Inference'
 uid: c334d67c-3d5f-a06a-3bd8-fc9d31760f32
 ---

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 13: Quantum Information'
 uid: c7e90fb8-77bc-7b01-c552-e131a7f97b65
 ---

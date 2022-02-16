@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 12: Temperature'
 uid: 5ef930f5-8e59-5217-7087-d1304a2f4b4e
 ---

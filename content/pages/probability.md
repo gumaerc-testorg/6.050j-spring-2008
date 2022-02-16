@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 5: Probability'
 uid: 4a7c8a7a-031e-7d86-e440-022fce4128e3
 ---

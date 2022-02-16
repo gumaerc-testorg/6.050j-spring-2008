@@ -2,8 +2,12 @@
 content_type: resource
 description: Course notes on the multi-state model applied to systems intended for
   information processing.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-050j-information-and-entropy-spring-2008/05b291071fc6763aec1920c1f1ef1f2d_MIT6_050JS08_chapter13.pdf
+file: /media/courses/6-050j-information-and-entropy-spring-2008/05b291071fc6763aec1920c1f1ef1f2d_MIT6_050JS08_chapter13.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Units 1 & 2: Bits and Codes'
+parent_type: CourseSection
 resourcetype: Document
 title: 'Chapter 13: Quantum Information'
 uid: 05b29107-1fc6-763a-ec19-20c1f1ef1f2d

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 4: Noise and Errors'
 uid: e540be48-60de-de3e-a806-e164de6627ab
 ---

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 7: Processes'
 uid: 9453fa10-297c-8f65-ea5d-3c62461edc54
 ---

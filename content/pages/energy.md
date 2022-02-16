@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 11: Energy'
 uid: 8ed65f6a-4dae-d471-8418-58d21c5e92dc
 ---
