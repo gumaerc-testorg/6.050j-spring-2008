@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit 7: Processes'
 parent_type: CourseSection
+parent_uid: 9453fa10-297c-8f65-ea5d-3c62461edc54
 resourcetype: Document
 title: 'Chapter 7: Processes'
 uid: 68c13ee1-e208-3fcc-019a-f94632861090

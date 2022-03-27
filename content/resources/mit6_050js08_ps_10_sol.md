@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit 11: Energy'
 parent_type: CourseSection
+parent_uid: 8ed65f6a-4dae-d471-8418-58d21c5e92dc
 resourcetype: Document
 title: Problem Set 10 Solutions
 uid: bee343e0-4c43-1ffe-e5ac-f1b4932c3110

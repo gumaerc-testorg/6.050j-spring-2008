@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 0cf4a2f7-2707-6f36-fb47-41232b956e45
 resourcetype: Document
 title: Information and Entropy
 uid: 80c7258f-d6bc-5780-7979-75eabb6fd747

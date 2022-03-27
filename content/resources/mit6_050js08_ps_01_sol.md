@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Units 1 & 2: Bits and Codes'
 parent_type: CourseSection
+parent_uid: 4da88728-f4c9-8662-0aaa-7541b3fb2136
 resourcetype: Document
 title: 'Problem Set 1 Solutions '
 uid: a694e133-f1f4-1a03-a178-ec09321afe96

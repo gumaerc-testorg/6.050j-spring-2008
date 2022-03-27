@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit 4: Noise and Errors'
 parent_type: CourseSection
+parent_uid: e540be48-60de-de3e-a806-e164de6627ab
 resourcetype: Document
 title: Problem Set 3 Solutions
 uid: af386a50-2247-68f1-765a-38a221360179

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit 6: Communications'
 parent_type: CourseSection
+parent_uid: 41d41aad-b959-8d1c-a97c-e913433a3a5c
 resourcetype: Document
 title: 'Chapter 6: Communications'
 uid: 66414166-8bf9-45e7-51b8-c98f302a94e8

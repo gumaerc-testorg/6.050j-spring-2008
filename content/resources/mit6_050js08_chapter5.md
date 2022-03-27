@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit 5: Probability'
 parent_type: CourseSection
+parent_uid: 4a7c8a7a-031e-7d86-e440-022fce4128e3
 resourcetype: Document
 title: 'Chapter 5: Probability'
 uid: 9921b96a-dbff-8603-2bdf-478cabe5d187

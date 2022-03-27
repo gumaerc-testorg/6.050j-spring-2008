@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit 7: Processes'
 parent_type: CourseSection
+parent_uid: 9453fa10-297c-8f65-ea5d-3c62461edc54
 resourcetype: Document
 title: Problem Set 6 Solutions
 uid: 457c1101-4c30-060a-7c36-f989af66468c

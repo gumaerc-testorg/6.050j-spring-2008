@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit 9: Maximum Entropy'
 parent_type: CourseSection
+parent_uid: b12913cf-0777-b412-6ec0-4bb3ff6fdcae
 resourcetype: Document
 title: 'Chapter 9: Principle of Maximum Entropy'
 uid: 68255db8-d828-7bce-4a46-5b036ac37771

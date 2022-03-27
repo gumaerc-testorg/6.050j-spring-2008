@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit 10: Physical Systems'
 parent_type: CourseSection
+parent_uid: 04d3de47-9068-805c-423b-0e0a1cb71ed7
 resourcetype: Document
 title: Problem Set 9 Solutions
 uid: cd7db6b9-c5a0-716b-9dd6-3ae8ed44041d

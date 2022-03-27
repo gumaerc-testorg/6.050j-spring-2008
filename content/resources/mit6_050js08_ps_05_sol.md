@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit 6: Communications'
 parent_type: CourseSection
+parent_uid: 41d41aad-b959-8d1c-a97c-e913433a3a5c
 resourcetype: Document
 title: 'Problem Set 5 Solutions '
 uid: 8b23860a-719b-07fc-61ee-ccdc8b342f93

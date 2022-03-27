@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit 9: Maximum Entropy'
 parent_type: CourseSection
+parent_uid: b12913cf-0777-b412-6ec0-4bb3ff6fdcae
 resourcetype: Document
 title: Problem Set 8 Solutions
 uid: ea4b4cf9-a8ba-7620-0d02-e8084be7c77e

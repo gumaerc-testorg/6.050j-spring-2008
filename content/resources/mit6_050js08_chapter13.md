@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Units 1 & 2: Bits and Codes'
 parent_type: CourseSection
+parent_uid: 4da88728-f4c9-8662-0aaa-7541b3fb2136
 resourcetype: Document
 title: 'Chapter 13: Quantum Information'
 uid: 05b29107-1fc6-763a-ec19-20c1f1ef1f2d

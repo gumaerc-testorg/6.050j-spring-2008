@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Units 1 & 2: Bits and Codes'
 parent_type: CourseSection
+parent_uid: 4da88728-f4c9-8662-0aaa-7541b3fb2136
 resourcetype: Document
 title: 'Chapter 2: Codes'
 uid: baef37ec-1a27-2cc3-1b32-b4dec2629e44

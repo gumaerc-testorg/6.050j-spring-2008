@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit 4: Noise and Errors'
 parent_type: CourseSection
+parent_uid: e540be48-60de-de3e-a806-e164de6627ab
 resourcetype: Document
 title: 'Chapter 4: Errors'
 uid: 71667aa5-e136-6309-6278-c6617fca34e5

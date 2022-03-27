@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit 13: Quantum Information'
 parent_type: CourseSection
+parent_uid: c7e90fb8-77bc-7b01-c552-e131a7f97b65
 resourcetype: Document
 title: 'Chapter 13: Quantum Information'
 uid: 502ff1e7-87fd-e800-e799-34be5b5dc508

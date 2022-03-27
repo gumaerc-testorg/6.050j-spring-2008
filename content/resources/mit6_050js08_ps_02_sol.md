@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit 3: Compression'
 parent_type: CourseSection
+parent_uid: 2dcc8474-126c-fe52-468d-88a8358a4a30
 resourcetype: Document
 title: Problem Set 2 Solutions
 uid: df8bb552-3c4c-dfb0-fb7e-d961572b392a

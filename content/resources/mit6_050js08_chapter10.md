@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit 10: Physical Systems'
 parent_type: CourseSection
+parent_uid: 04d3de47-9068-805c-423b-0e0a1cb71ed7
 resourcetype: Document
 title: 'Chapter 10: Physical Systems'
 uid: af6e229b-71f1-e906-eaaf-bdfad10972d3
