@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides readings, assignments, and resources on energy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit 11: Energy'
@@ -9,14 +10,14 @@ uid: 8ed65f6a-4dae-d471-8418-58d21c5e92dc
 Readings
 --------
 
-*   [Notes, Chapter 11: Energy (PDF)]({{< baseurl >}}/resources/mit6_050js08_chapter11)
+*   {{% resource_link d05e30d2-7190-6545-6901-daf7ba405602 "Notes, Chapter 11: Energy (PDF)" %}}
 *   Lloyd, Seth. "Quantum-Mechanical Computers." _Scientific American_ 273 (October 1995): 44–49.
 
 Assignments
 -----------
 
-*   [Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit6_050js08_ps_10)
-*   [Problem Set 10 Solutions (PDF)]({{< baseurl >}}/resources/mit6_050js08_ps_10_sol)
+*   {{% resource_link ab8f6f9d-4007-5fbf-862e-863d5582807b "Problem Set 10 (PDF)" %}}
+*   {{% resource_link bee343e0-4c43-1ffe-e5ac-f1b4932c3110 "Problem Set 10 Solutions (PDF)" %}}
 
 Resources
 ---------
@@ -25,13 +26,13 @@ Resources
 
 Seminal papers on the Principle of Maximum Entropy by Edwin T. Jaynes (July 5, 1922 – April 30, 1998):
 
-*   Jaynes, E. T. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Information Theory and Statistical Mechanics (PDF - 2.1 MB)](http://bayes.wustl.edu/etj/articles/theory.1.pdf)." _Physical Review_ 106 (May 15, 1957): 620–630.  
+*   Jaynes, E. T. "[Information Theory and Statistical Mechanics (PDF - 2.1 MB)](http://bayes.wustl.edu/etj/articles/theory.1.pdf)." _Physical Review_ 106 (May 15, 1957): 620–630.  
     This paper started the use of the Principle of Maximum Entropy in physics.
-*   ———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Information Theory and Statistical Mechanics II (PDF - 3.6 MB)](http://bayes.wustl.edu/etj/articles/theory.2.pdf)." _Physical Review_ 108 (October 15, 1957): 171–190.  
+*   ———. "[Information Theory and Statistical Mechanics II (PDF - 3.6 MB)](http://bayes.wustl.edu/etj/articles/theory.2.pdf)." _Physical Review_ 108 (October 15, 1957): 171–190.  
     Continuation of the previous reference.
 *   The philosophy of assuming maximum uncertainty is discussed in Chapter 3 of Tribus, M. _Thermostatics and Thermodynamics_. Princeton, NJ: D. Van Nostrand Co, Inc., 1961.
-*   Another good explanation, in terms of estimating probabilities of an unfair die is in Jaynes, E. T. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Information Theory and Statistical Mechanics (PDF)](http://bayes.wustl.edu/etj/articles/brandeis.pdf)." In _Statistical Physics_. Brandeis Summer Institute 1962. New York, NY: W. A. Benjamin, Inc., 1963. pp. 181–218.
-*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262120807) Personal history by Jaynes, Edwin T. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Where Do We Stand on Maximum Entropy? (PDF - 2.5 MB)](http://bayes.wustl.edu/etj/articles/stand.on.entropy.pdf)" In [_The Maximum Entropy Formalism_](https://mitpress.mit.edu/9780262120807). Edited by Raphael D. Levine and Myron Tribus. Cambridge, MA: MIT Press, 1978. pp. 15-118. ISBN: 9780262120807.
+*   Another good explanation, in terms of estimating probabilities of an unfair die is in Jaynes, E. T. "[Information Theory and Statistical Mechanics (PDF)](http://bayes.wustl.edu/etj/articles/brandeis.pdf)." In _Statistical Physics_. Brandeis Summer Institute 1962. New York, NY: W. A. Benjamin, Inc., 1963. pp. 181–218.
+*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262120807) Personal history by Jaynes, Edwin T. "[Where Do We Stand on Maximum Entropy? (PDF - 2.5 MB)](http://bayes.wustl.edu/etj/articles/stand.on.entropy.pdf)" In [_The Maximum Entropy Formalism_](https://mitpress.mit.edu/9780262120807). Edited by Raphael D. Levine and Myron Tribus. Cambridge, MA: MIT Press, 1978. pp. 15-118. ISBN: 9780262120807.
 
 ### Historical
 

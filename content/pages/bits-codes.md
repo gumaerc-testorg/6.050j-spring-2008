@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides readings, assignments, and resources on bits and
+  codes.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Units 1 & 2: Bits and Codes'
@@ -9,15 +11,15 @@ uid: 4da88728-f4c9-8662-0aaa-7541b3fb2136
 Readings
 --------
 
-*   [Notes, Preface (PDF)]({{< baseurl >}}/resources/mit6_050js08_preface)
-*   [Notes, Chapter 1: Bits (PDF)]({{< baseurl >}}/resources/mit6_050js08_chapter1)
-*   [Notes, Chapter 2: Codes (PDF)]({{< baseurl >}}/resources/mit6_050js08_chapter2)
+*   {{% resource_link ee2a920e-498e-a12d-adc6-732fa06cd6b3 "Notes, Preface (PDF)" %}}
+*   {{% resource_link 04b97157-5cba-c02a-05bc-76afd59d6db5 "Notes, Chapter 1: Bits (PDF)" %}}
+*   {{% resource_link baef37ec-1a27-2cc3-1b32-b4dec2629e44 "Notes, Chapter 2: Codes (PDF)" %}}
 
 Assignments
 -----------
 
-*   [Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit6_050js08_ps_01)
-*   [Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit6_050js08_ps_01_sol)
+*   {{% resource_link ae6484ad-c68c-f892-ae7b-9f8e0e6e4553 "Problem Set 1 (PDF)" %}}
+*   {{% resource_link a694e133-f1f4-1a03-a178-ec09321afe96 "Problem Set 1 Solutions (PDF)" %}}
 
 Resources
 ---------

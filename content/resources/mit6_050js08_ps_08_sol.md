@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set on information and entropy.
-file: /media/courses/6-050j-information-and-entropy-spring-2008/ea4b4cf9a8ba76200d02e8084be7c77e_MIT6_050JS08_ps_08_sol.pdf
+file: /courses/6-050j-information-and-entropy-spring-2008/ea4b4cf9a8ba76200d02e8084be7c77e_MIT6_050JS08_ps_08_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: Problem Set 8 Solutions
 uid: ea4b4cf9-a8ba-7620-0d02-e8084be7c77e
 ---
+Solutions to a problem set on information and entropy.
+

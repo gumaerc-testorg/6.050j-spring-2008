@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides readings, assignments, and resources on compression.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit 3: Compression'
@@ -9,7 +10,7 @@ uid: 2dcc8474-126c-fe52-468d-88a8358a4a30
 Readings
 --------
 
-*   [Notes, Chapter 3: Compression (PDF)]({{< baseurl >}}/resources/mit6_050js08_chapter3)
+*   {{% resource_link 9f67d1d4-14e4-46c9-b559-25ab92c17c15 "Notes, Chapter 3: Compression (PDF)" %}}
 *   [MP3 Demonstration](http://www.mtl.mit.edu/Courses/6.050/2008/notes/mp3.html)
 *   Shutter Telegraph Codewords
 *   [Graphics Interchange Format (GIF87) Specification](http://www.w3.org/Graphics/GIF/spec-gif87.txt) (complete, p. 9)
@@ -22,8 +23,8 @@ Readings
 Assignments
 -----------
 
-*   [Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit6_050js08_ps_02)
-*   [Problem Set 2 Solutions (PDF)]({{< baseurl >}}/resources/mit6_050js08_ps_02_sol)
+*   {{% resource_link 75e936d9-bacb-0fb5-b97a-9355dcaca045 "Problem Set 2 (PDF)" %}}
+*   {{% resource_link df8bb552-3c4c-dfb0-fb7e-d961572b392a "Problem Set 2 Solutions (PDF)" %}}
 
 Resources
 ---------

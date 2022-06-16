@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides readings, assignments, and resources on quantum
+  information.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit 13: Quantum Information'
@@ -9,7 +11,7 @@ uid: c7e90fb8-77bc-7b01-c552-e131a7f97b65
 Readings
 --------
 
-*   [Notes, Chapter 13: Quantum Information (including detail section by Luis Pérez-Breva) (PDF)]({{< baseurl >}}/resources/mit6_050js08_chapter13-1)
+*   {{% resource_link 502ff1e7-87fd-e800-e799-34be5b5dc508 "Notes, Chapter 13: Quantum Information (including detail section by Luis Pérez-Breva) (PDF)" %}}
 *   Lloyd, Seth. "Quantum-Mechanical Computers." _Scientific American_ 273 (October 1995): 44–49.  
     An early, very readable description of quantum computation.
 *   Spiller, T. P. "Quantum Information Processing: Cryptography, Computation, and Teleportation." _Proceedings of the IEEE_ 84 (December 1996): 1719–1746.  

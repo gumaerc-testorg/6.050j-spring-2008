@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides readings, assignments, and resources on temperature.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit 12: Temperature'
@@ -9,14 +10,14 @@ uid: 5ef930f5-8e59-5217-7087-d1304a2f4b4e
 Readings
 --------
 
-*   [Notes, Chapter 12: Temperature (PDF)]({{< baseurl >}}/resources/mit6_050js08_chapter12)
+*   {{% resource_link 8a9ca459-1f21-c232-6d10-69df402b82d1 "Notes, Chapter 12: Temperature (PDF)" %}}
 
 Assignments
 -----------
 
-*   [Problem Set 11 (PDF)]({{< baseurl >}}/resources/mit6_050js08_ps_11)
+*   {{% resource_link e90d719d-97a4-b219-aa3b-06395c53e467 "Problem Set 11 (PDF)" %}}
     
-*   [Problem Set 11 Solutions (PDF)]({{< baseurl >}}/resources/mit6_050js08_ps_11_sol)
+*   {{% resource_link 936c1ee7-897c-dfbf-d03a-204a75e1b85b "Problem Set 11 Solutions (PDF)" %}}
     
 
 Resources
@@ -26,9 +27,9 @@ Resources
 
 Seminal papers on the Principle of Maximum Entropy by Edwin T. Jaynes (July 5, 1922 – April 30, 1998):
 
-*   Jaynes, E. T. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Information Theory and Statistical Mechanics (PDF - 2.1 MB)](http://bayes.wustl.edu/etj/articles/theory.1.pdf)." _Physical Review_ 106 (May 15, 1957): 620–630.  
+*   Jaynes, E. T. "[Information Theory and Statistical Mechanics (PDF - 2.1 MB)](http://bayes.wustl.edu/etj/articles/theory.1.pdf)." _Physical Review_ 106 (May 15, 1957): 620–630.  
     This paper started the use of the Principle of Maximum Entropy in physics.
-*   ———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Information Theory and Statistical Mechanics II (PDF - 3.6 MB)](http://bayes.wustl.edu/etj/articles/theory.2.pdf)." _Physical Review_ 108 (October 15, 1957): 171–190.  
+*   ———. "[Information Theory and Statistical Mechanics II (PDF - 3.6 MB)](http://bayes.wustl.edu/etj/articles/theory.2.pdf)." _Physical Review_ 108 (October 15, 1957): 171–190.  
     Continuation of the previous reference.
 
 ### Historical

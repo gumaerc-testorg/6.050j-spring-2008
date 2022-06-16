@@ -2,7 +2,7 @@
 content_type: resource
 description: Course notes on modeling communication systems, inference, and the principle
   of maximum entropy.
-file: /media/courses/6-050j-information-and-entropy-spring-2008/45ac23d88ab109c7f753a7077626ad3f_MIT6_050JS08_chapter8.pdf
+file: /courses/6-050j-information-and-entropy-spring-2008/45ac23d88ab109c7f753a7077626ad3f_MIT6_050JS08_chapter8.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 'Chapter 8: Inference'
 uid: 45ac23d8-8ab1-09c7-f753-a7077626ad3f
 ---
+Course notes on modeling communication systems, inference, and the principle of maximum entropy.
+

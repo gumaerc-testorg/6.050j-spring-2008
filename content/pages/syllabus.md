@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides general information about the course and
+  information on meeting times, prerequisites, the course text, assignments, examinations,
+  computers, workload, collaboration, grades, and the schedule of topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +17,7 @@ Course Meeting Times
 Prerequisites
 -------------
 
-Physics I: Classical Mechanics (Offered in various forms at MIT as _[8.01SC Classical Mechanics](/courses/8-01sc-classical-mechanics-fall-2016/)_, [_8.012 Physics I: Classical Mechanics_](/courses/8-012-physics-i-classical-mechanics-fall-2008), [_8.01L Physics I: Classical Mechanics_](/courses/8-01l-physics-i-classical-mechanics-fall-2005), 8.01T, or advanced standing credit)
+Physics I: Classical Mechanics (Offered in various forms at MIT as _[8.01SC Classical Mechanics](/courses/8-01sc-classical-mechanics-fall-2016)_, [_8.012 Physics I: Classical Mechanics_](/courses/8-012-physics-i-classical-mechanics-fall-2008), [_8.01L Physics I: Classical Mechanics_](/courses/8-01l-physics-i-classical-mechanics-fall-2005), 8.01T, or advanced standing credit)
 
 Course Description
 ------------------
@@ -28,7 +31,7 @@ This subject is offered jointly by the Department of Electrical Engineering and 
 Text
 ----
 
-The course is taught from a set of notes written by Prof. Penfield, developed over several years of teaching this course. These readings are linked from each unit. Each week these readings are also supplemented by a plethora of online and print resources. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Information and Entropy_ full course notes (PDF - 4MB)]({{< baseurl >}}/resources/mit6_050js08_textbook)
+The course is taught from a set of notes written by Prof. Penfield, developed over several years of teaching this course. These readings are linked from each unit. Each week these readings are also supplemented by a plethora of online and print resources. {{% resource_link 80c7258f-d6bc-5780-7979-75eabb6fd747 "_Information and Entropy_ full course notes (PDF - 4MB)" %}}
 
 Assignments
 -----------

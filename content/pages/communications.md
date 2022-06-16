@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides readings, assignments, and resources on communications.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit 6: Communications'
@@ -9,7 +10,7 @@ uid: 41d41aad-b959-8d1c-a97c-e913433a3a5c
 Readings
 --------
 
-*   [Notes, Chapter 6: Communications (PDF)]({{< baseurl >}}/resources/mit6_050js08_chapter6)
+*   {{% resource_link 66414166-8bf9-45e7-51b8-c98f302a94e8 "Notes, Chapter 6: Communications (PDF)" %}}
 *   Bhatti, Saleem N. [Channel Capacity (archived)](http://web.archive.org/web/20080126223204/http://www.cs.ucl.ac.uk/staff/S.Bhatti/D51-notes/node31.html)
 *   [ISO/OSI Network Model (archived)](http://web.archive.org/web/20080205062332/http://www.uwsg.indiana.edu/usail/network/nfs/network_layers.html), originally hosted by Indiana University
 *   Hedrick, Charles L. [_Introduction to the Internet Protocols_](https://www.ifa.hawaii.edu/users/gmm/intro_ip/index.html). 1987
@@ -19,15 +20,15 @@ Readings
 Assignments
 -----------
 
-*   [Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit6_050js08_ps_05)
-*   [Problem Set 5 Solutions (PDF)]({{< baseurl >}}/resources/mit6_050js08_ps_05_sol)
+*   {{% resource_link 2a99a053-87ec-35e9-ea43-47054afa9ece "Problem Set 5 (PDF)" %}}
+*   {{% resource_link 8b23860a-719b-07fc-61ee-ccdc8b342f93 "Problem Set 5 Solutions (PDF)" %}}
 
 Resources
 ---------
 
 ### Technical
 
-*   Shannon, Claude E. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[A Mathematical Theory of Communication (PDF)](http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf)." _Bell System Technical Journal_ 27 (July and October 1948): 379–423 (Part I), 623–656 (Part II).  
+*   Shannon, Claude E. "[A Mathematical Theory of Communication (PDF)](http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf)." _Bell System Technical Journal_ 27 (July and October 1948): 379–423 (Part I), 623–656 (Part II).  
     These seminal papers are available in several forms.
     *   Shannon, Claude E., and Warren Weaver. _The Mathematical Theory of Communication_. Urbana, IL: University of Illinois Press, 1998. ISBN: 9780252725463. (Incorporating a number of modifications and corrections by Shannon.)
     *   Shannon, Claude E. "A Mathematical Theory of Communication." 50th Anniversary Edition, printed for the 1998 _IEEE International Symposium on Information Theory_, MIT, Cambridge, UK: Cambridge University Press. August 16–21, 1998. (Based on 1949 book, with corrections.)
