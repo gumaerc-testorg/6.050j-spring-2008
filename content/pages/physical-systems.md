@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides readings, assignments, and resources on physical
+  systems.
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 10: Physical Systems'
 uid: 04d3de47-9068-805c-423b-0e0a1cb71ed7
 ---
@@ -7,15 +11,15 @@ uid: 04d3de47-9068-805c-423b-0e0a1cb71ed7
 Readings
 --------
 
-*   [Notes, Chapter 10: Physical Systems (PDF)]({{< baseurl >}}/resources/mit6_050js08_chapter10)
+*   {{% resource_link af6e229b-71f1-e906-eaaf-bdfad10972d3 "Notes, Chapter 10: Physical Systems (PDF)" %}}
 *   Steane, Andrew M., and Wim van Dam. "Physicists Triumph at Guess My Number." _Physics Today_ 53 (February 2000): 35–39.  
     A charming introduction to superdense coding, in which the transmission of a classical bit can convey more than a bit of information if the channel is set up in advance using quantum entanglement.
 
 Assignments
 -----------
 
-*   [Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit6_050js08_ps_09)
-*   [Problem Set 9 Solutions (PDF)]({{< baseurl >}}/resources/mit6_050js08_ps_09_sol)
+*   {{% resource_link 07daed4e-50b7-32eb-0b3d-46cad77543b3 "Problem Set 9 (PDF)" %}}
+*   {{% resource_link cd7db6b9-c5a0-716b-9dd6-3ae8ed44041d "Problem Set 9 Solutions (PDF)" %}}
 
 Resources
 ---------

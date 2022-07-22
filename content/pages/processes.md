@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides readings, assignments, and resources on processes.
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 7: Processes'
 uid: 9453fa10-297c-8f65-ea5d-3c62461edc54
 ---
@@ -7,14 +10,14 @@ uid: 9453fa10-297c-8f65-ea5d-3c62461edc54
 Readings
 --------
 
-*   [Notes, Chapter 7: Processes (PDF - 1.4 MB)]({{< baseurl >}}/resources/mit6_050js08_chapter7)
+*   {{% resource_link 68c13ee1-e208-3fcc-019a-f94632861090 "Notes, Chapter 7: Processes (PDF - 1.4 MB)" %}}
 *   Gallager, Robert G. "Claude E. Shannon: A Retrospective on His Life, Work, and Impact." _IEEE Transactions on Information Theory_ 47 (November 2001): 2681–2695.
 
 Assignments
 -----------
 
-*   [Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit6_050js08_ps_06)
-*   [Problem Set 6 Solutions (PDF)]({{< baseurl >}}/resources/mit6_050js08_ps_06_sol)
+*   {{% resource_link a2c65198-b54e-56a1-eea2-85a5e8d45f4c "Problem Set 6 (PDF)" %}}
+*   {{% resource_link 457c1101-4c30-060a-7c36-f989af66468c "Problem Set 6 Solutions (PDF)" %}}
 
 Resources
 ---------
@@ -22,7 +25,7 @@ Resources
 ### Technical
 
 *   Shannon, Claude E. "A Mathematical Theory of Communication." _Bell System Technical Journal_ 27 (July and October 1948): 379–423 (Part I), 623–656 (Part II). These seminal papers are available in several forms.
-    *   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Original papers (PDF)](http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf), with corrections but without Shannon's 1949 modifications.
+    *   [Original papers (PDF)](http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf), with corrections but without Shannon's 1949 modifications.
     *   Shannon, Claude E., and Warren Weaver. _The Mathematical Theory of Communication_. Urbana, IL: University of Illinois Press, 1998. ISBN: 9780252725463. (Incorporating a number of modifications and corrections by Shannon.)
     *   Shannon, Claude E. "A Mathematical Theory of Communication." 50th Anniversary Edition, printed for the 1998 _IEEE International Symposium on Information Theory_. New York, NY: IEEE Press, August 16–21, 1998. ISBN: 9780780350007. (Based on 1949 book, with corrections.)
     *   Reprinted in _Key Papers in the Development of Information Theory_. Edited by D. Slepian. New York, NY: IEEE Press, 1974.

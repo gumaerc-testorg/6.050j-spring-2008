@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides readings, assignments, and resources on noise and
+  errors.
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 4: Noise and Errors'
 uid: e540be48-60de-de3e-a806-e164de6627ab
 ---
@@ -7,15 +11,15 @@ uid: e540be48-60de-de3e-a806-e164de6627ab
 Readings
 --------
 
-*   [Notes, Chapter 4: Errors (PDF)]({{< baseurl >}}/resources/mit6_050js08_chapter4)
+*   {{% resource_link 71667aa5-e136-6309-6278-c6617fca34e5 "Notes, Chapter 4: Errors (PDF)" %}}
 *   [Error Correction with Hamming Codes](http://www2.rad.com/networks/1994/err_con/hamming.htm)
 *   [CD-ROM Technical Summary](http://pauillac.inria.fr/~lang/hotlist/cdrom/Documents/tech-summary.html), by Andy Poggio, March, 1988.
 
 Assignments
 -----------
 
-*   [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit6_050js08_ps_03)
-*   [Problem Set 3 Solutions (PDF)]({{< baseurl >}}/resources/mit6_050js08_ps_03_sol)
+*   {{% resource_link 417902c7-efc1-b751-07c5-8381af7ea9b3 "Problem Set 3 (PDF)" %}}
+*   {{% resource_link af386a50-2247-68f1-765a-38a221360179 "Problem Set 3 Solutions (PDF)" %}}
 
 Resources
 ---------

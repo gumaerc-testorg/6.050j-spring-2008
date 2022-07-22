@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides readings, assignments, and resources on probability.
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 5: Probability'
 uid: 4a7c8a7a-031e-7d86-e440-022fce4128e3
 ---
@@ -10,15 +13,15 @@ uid: 4a7c8a7a-031e-7d86-e440-022fce4128e3
 Readings
 --------
 
-*   [Notes, Chapter 5: Probability (PDF)]({{< baseurl >}}/resources/mit6_050js08_chapter5)
+*   {{% resource_link 9921b96a-dbff-8603-2bdf-478cabe5d187 "Notes, Chapter 5: Probability (PDF)" %}}
 *   Huffmann, David A. "A Method for the Construction of Minimum-Redundancy Codes." _Proceedings of the Institute of Radio Engineers_ 40 (September 1952): 1098–1101.
 *   Towser's Wonderland Park greyhound handicaps, _Boston Globe_, February 27, 2005 (and results, _Boston Globe_, February 28, 2005)
 
 Assignments
 -----------
 
-*   [Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit6_050js08_ps_04)
-*   [Problem Set 4 Solutions (PDF)]({{< baseurl >}}/resources/mit6_050js08_ps_04_sol)
+*   {{% resource_link 2f6e880c-24f1-b40e-3a14-cdb2f845dd9b "Problem Set 4 (PDF)" %}}
+*   {{% resource_link c82e8dd7-b08f-c254-1211-18168b0b8e98 "Problem Set 4 Solutions (PDF)" %}}
 
 Resources
 ---------
@@ -28,7 +31,7 @@ Resources
 *   Salomon, David. "Huffman Coding, section 2.8; Facsimile Compression using Huffman Coding, section 2.13." In _Data Compression_. London, England: Springer, 2006. ISBN: 9781846286025.
 *   [The Human Mortality Database](http://www.mortality.org/) from University of California, Berkeley.
 *   MIT current year [student enrollment data](https://registrar.mit.edu/statistics-reports)
-*   Sebastiani, Paola. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[A Tutorial on Probability Theory (PDF)](http://www.sci.utah.edu/~gerig/CS6640-F2010/prob-tut.pdf)." One of many good tutorials on the subject.
+*   Sebastiani, Paola. "[A Tutorial on Probability Theory (PDF)](http://www.sci.utah.edu/~gerig/CS6640-F2010/prob-tut.pdf)." One of many good tutorials on the subject.
 
 ### Historical
 
