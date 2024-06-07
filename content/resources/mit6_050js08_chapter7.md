@@ -3,6 +3,7 @@ content_type: resource
 description: Course notes on processes, process diagrams, probability diagrams, information
   diagrams, and cascaded processes.
 file: /courses/6-050j-information-and-entropy-spring-2008/68c13ee1e2083fcc019af94632861090_MIT6_050JS08_chapter7.pdf
+file_size: 1525956
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

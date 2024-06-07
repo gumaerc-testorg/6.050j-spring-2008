@@ -3,6 +3,7 @@ content_type: resource
 description: Course notes on the multi-state model applied to systems intended for
   information processing.
 file: /courses/6-050j-information-and-entropy-spring-2008/502ff1e787fde800e79934be5b5dc508_MIT6_050JS08_chapter13.pdf
+file_size: 616445
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

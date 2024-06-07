@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to a problem set on information and entropy.
 file: /courses/6-050j-information-and-entropy-spring-2008/af386a50224768f1765a38a221360179_MIT6_050JS08_ps_03_sol.pdf
+file_size: 129825
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

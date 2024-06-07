@@ -2,6 +2,7 @@
 content_type: resource
 description: Course notes on communications, information handling, and channel capacity.
 file: /courses/6-050j-information-and-entropy-spring-2008/664141668bf945e751b8c98f302a94e8_MIT6_050JS08_chapter6.pdf
+file_size: 335920
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

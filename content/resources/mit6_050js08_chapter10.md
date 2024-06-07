@@ -3,6 +3,7 @@ content_type: resource
 description: Course notes on physical systems, quantum mechanics, and information
   systems.
 file: /courses/6-050j-information-and-entropy-spring-2008/af6e229b71f1e906eaafbdfad10972d3_MIT6_050JS08_chapter10.pdf
+file_size: 212063
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
