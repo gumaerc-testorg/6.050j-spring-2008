@@ -2,7 +2,7 @@
 content_type: resource
 description: Course notes on probability distributions and a model of an information
   handling system in which symbols from an input are encoded into bits.
-file: /ol-ocw-studio-app/courses/6-050j-information-and-entropy-spring-2008/9921b96adbff86032bdf478cabe5d187_MIT6_050JS08_chapter5.pdf
+file: /courses/6-050j-information-and-entropy-spring-2008/9921b96adbff86032bdf478cabe5d187_MIT6_050JS08_chapter5.pdf
 file_size: 342618
 file_type: application/pdf
 learning_resource_types: []
