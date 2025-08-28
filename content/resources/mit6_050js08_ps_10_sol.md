@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set on information and entropy.
-file: /courses/6-050j-information-and-entropy-spring-2008/bee343e04c431ffee5acf1b4932c3110_MIT6_050JS08_ps_10_sol.pdf
+file: /ol-ocw-studio-app/courses/6-050j-information-and-entropy-spring-2008/bee343e04c431ffee5acf1b4932c3110_MIT6_050JS08_ps_10_sol.pdf
 file_size: 246114
 file_type: application/pdf
 learning_resource_types: []

@@ -4,7 +4,7 @@ description: 'Course notes on the fundamental unit of information, the bit, and 
   various abstract representations: the Boolean bit (with its associated Boolean algebra
   and realization in combinational logic circuits), the control bit, the quantum bit,
   and the classical bit.'
-file: /courses/6-050j-information-and-entropy-spring-2008/04b971575cbac02a05bc76afd59d6db5_MIT6_050JS08_chapter1.pdf
+file: /ol-ocw-studio-app/courses/6-050j-information-and-entropy-spring-2008/04b971575cbac02a05bc76afd59d6db5_MIT6_050JS08_chapter1.pdf
 file_size: 234825
 file_type: application/pdf
 learning_resource_types: []

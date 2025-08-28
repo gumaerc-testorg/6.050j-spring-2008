@@ -2,7 +2,7 @@
 content_type: resource
 description: Course notes on the constraints on the efficiency of energy conversion
   that can be expressed naturally in terms of temperature.
-file: /courses/6-050j-information-and-entropy-spring-2008/8a9ca4591f21c2326d1069df402b82d1_MIT6_050JS08_chapter12.pdf
+file: /ol-ocw-studio-app/courses/6-050j-information-and-entropy-spring-2008/8a9ca4591f21c2326d1069df402b82d1_MIT6_050JS08_chapter12.pdf
 file_size: 220862
 file_type: application/pdf
 learning_resource_types: []
