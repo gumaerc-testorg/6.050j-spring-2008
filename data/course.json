@@ -46,10 +46,11 @@
   },
   "learning_resource_types": [
     "Problem Sets with Solutions",
-    "Online Textbook",
+    "Open Textbooks",
     "Programming Assignments"
   ],
   "site_uid": "0b6360f7-3280-4021-a3a5-bd802e59d502",
   "site_short_id": "6.050j-spring-2008",
+  "site_url_path": "courses/6-050j-information-and-entropy-spring-2008",
   "title": "Course Metadata"
 }

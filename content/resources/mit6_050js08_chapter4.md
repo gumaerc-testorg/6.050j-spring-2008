@@ -2,7 +2,7 @@
 content_type: resource
 description: Course notes on techniques for insuring that errors introduced by information
   processing systems do no harm.
-file: /courses/6-050j-information-and-entropy-spring-2008/71667aa5e13663096278c6617fca34e5_MIT6_050JS08_chapter4.pdf
+file: /ol-ocw-studio-app/courses/6-050j-information-and-entropy-spring-2008/71667aa5e13663096278c6617fca34e5_MIT6_050JS08_chapter4.pdf
 file_size: 208127
 file_type: application/pdf
 learning_resource_types: []
