@@ -11,11 +11,11 @@ Readings
 --------
 
 *   {{% resource_link 66414166-8bf9-45e7-51b8-c98f302a94e8 "Notes, Chapter 6: Communications (PDF)" %}}
-*   Bhatti, Saleem N. [Channel Capacity (archived)](http://web.archive.org/web/20080126223204/http://www.cs.ucl.ac.uk/staff/S.Bhatti/D51-notes/node31.html)
-*   [ISO/OSI Network Model (archived)](http://web.archive.org/web/20080205062332/http://www.uwsg.indiana.edu/usail/network/nfs/network_layers.html), originally hosted by Indiana University
-*   Hedrick, Charles L. [_Introduction to the Internet Protocols_](https://www.ifa.hawaii.edu/users/gmm/intro_ip/index.html). 1987
-    *   [What is TCP/IP?](https://www.ifa.hawaii.edu/users/gmm/intro_ip/sec1.html)
-    *   [General description of the TCP/IP protocols](https://www.ifa.hawaii.edu/users/gmm/intro_ip/sec2.html)
+*   Bhatti, Saleem N. {{% resource_link "2d5c5447-996a-4c8c-a830-c87eb1588401" "Channel Capacity (archived)" %}}
+*   {{% resource_link "19bcc8ac-fd7c-41d9-8dd3-3626a639ebe1" "ISO/OSI Network Model (archived)" %}}, originally hosted by Indiana University
+*   Hedrick, Charles L. {{% resource_link "2b6853de-fde0-4026-978a-256d7ffb2a16" "_Introduction to the Internet Protocols_" %}}. 1987
+    *   {{% resource_link "50e0deae-7b70-4d34-a71e-a7099b216dd6" "What is TCP/IP?" %}}
+    *   {{% resource_link "eaee4f15-b1a9-49cb-93c9-0bc5720f963e" "General description of the TCP/IP protocols" %}}
 
 Assignments
 -----------
@@ -28,19 +28,19 @@ Resources
 
 ### Technical
 
-*   Shannon, Claude E. "[A Mathematical Theory of Communication (PDF)](http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf)." _Bell System Technical Journal_ 27 (July and October 1948): 379–423 (Part I), 623–656 (Part II).  
+*   Shannon, Claude E. "{{% resource_link "5ee6ff02-a6ca-475b-9383-950b53f4e494" "A Mathematical Theory of Communication (PDF)" %}}." _Bell System Technical Journal_ 27 (July and October 1948): 379–423 (Part I), 623–656 (Part II).  
     These seminal papers are available in several forms.
     *   Shannon, Claude E., and Warren Weaver. _The Mathematical Theory of Communication_. Urbana, IL: University of Illinois Press, 1998. ISBN: 9780252725463. (Incorporating a number of modifications and corrections by Shannon.)
     *   Shannon, Claude E. "A Mathematical Theory of Communication." 50th Anniversary Edition, printed for the 1998 _IEEE International Symposium on Information Theory_, MIT, Cambridge, UK: Cambridge University Press. August 16–21, 1998. (Based on 1949 book, with corrections.)
     *   Reprinted in _Key Papers in the Development of Information Theory_. Edited by D. Slepian. New York, NY: IEEE Press, 1974.
     *   Reprinted in _Claude Elwood Shannon: Collected Papers_. Edited by N. J. A. Sloane and A. D. Wyner. New York, NY: IEEE Press, 1993.
-*   Bhatti, Saleem N. [Channel Capacity (archived)](http://web.archive.org/web/20080126223204/http://www.cs.ucl.ac.uk/staff/S.Bhatti/D51-notes/node31.html). One of several excellent succinct expositions of channel capacity for symmetric binary channels.
-*   [ISO/OSI Network Model (archived)](http://web.archive.org/web/20080205062332/http://www.uwsg.indiana.edu/usail/network/nfs/network_layers.html)
-*   [IP version 6](https://www.worldipv6launch.org/) and related specifications
+*   Bhatti, Saleem N. {{% resource_link "2d5c5447-996a-4c8c-a830-c87eb1588401" "Channel Capacity (archived)" %}}. One of several excellent succinct expositions of channel capacity for symmetric binary channels.
+*   {{% resource_link "19bcc8ac-fd7c-41d9-8dd3-3626a639ebe1" "ISO/OSI Network Model (archived)" %}}
+*   {{% resource_link "46c2325f-f9e4-4f35-a974-d9659c562497" "IP version 6" %}} and related specifications
 
 ### Historical
 
-*   [Claude E. Shannon](http://www-groups.dcs.st-andrews.ac.uk/~history/Biographies/Shannon.html) (1916–2001). [Obituary](http://web.mit.edu/newsoffice/2001/obitshannon-0228.html). MIT News, February 28, 2001.
+*   {{% resource_link "90636bf0-057f-4eb2-b52b-3bb4354a4fca" "Claude E. Shannon" %}} (1916–2001). {{% resource_link "e384f981-3460-436d-8ef6-b8c5018b27d9" "Obituary" %}}. MIT News, February 28, 2001.
 
 ### General Technical Books
 
