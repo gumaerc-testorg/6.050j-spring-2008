@@ -26,14 +26,14 @@ Resources
 
 ### Technical
 
-*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262231398) Ward, S. A., and R. H. Jr. Halstead. [_Computation Structures_](https://mitpress.mit.edu/9780262231398). Cambridge, MA: MIT Press and McGraw-Hill, 1989. ISBN: 9780262231398. \[6.004 text\]
+*   {{% resource_link "c7c25ae5-c64c-4bfd-b462-6138311ee005" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Ward, S. A., and R. H. Jr. Halstead. {{% resource_link "c7c25ae5-c64c-4bfd-b462-6138311ee005" "_Computation Structures_" %}}. Cambridge, MA: MIT Press and McGraw-Hill, 1989. ISBN: 9780262231398. \[6.004 text\]
 *   Agarwal, Anant, and Jeffrey H. Lang. 6.002 Notes: _Foundations of Analog and Digital Electronic Circuits_. San Francisco, CA: Morgan Kaufmann/Elsevier, 2005. ISBN: 9781558607354.
 *   Boolean Algebra: There are many excellent descriptions of Boolean Algebra at various technical levels on the Web. You can find many through Google.
-*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262701020) Truxal, John G. [_The Age of Electronic Messages_](https://mitpress.mit.edu/9780262701020). Cambridge, MA: MIT Press, 1990. ISBN: 9780262701020.  
+*   {{% resource_link "31d213b9-9c1d-4013-89aa-f1fcffce9721" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Truxal, John G. {{% resource_link "31d213b9-9c1d-4013-89aa-f1fcffce9721" "_The Age of Electronic Messages_" %}}. Cambridge, MA: MIT Press, 1990. ISBN: 9780262701020.  
     Lots of examples of codes, at an introductory level.
 
 ### Historical
 
-*   [George Boole](http://www-groups.dcs.st-andrews.ac.uk/~history/Biographies/Boole.html) (1815–1864)
-*   [Augustus De Morgan](http://www-groups.dcs.st-andrews.ac.uk/~history/Biographies/De_Morgan.html) (1806–1871)
+*   {{% resource_link "77874c6c-4d17-4df0-9252-a7501e1ddd74" "George Boole" %}} (1815–1864)
+*   {{% resource_link "ce62e69e-c241-4b02-b5d8-814b73789c38" "Augustus De Morgan" %}} (1806–1871)
 *   Wilson, Geoffrey. _The Old Telegraphs_. London, UK: Phillimore and Co., 1976. ISBN: 9780900592799.

@@ -11,7 +11,7 @@ Readings
 --------
 
 *   {{% resource_link 45ac23d8-8ab1-09c7-f753-a7077626ad3f "Notes, Chapter 8: Inference (PDF)" %}}
-*   Jaynes, E. T. "[Information Theory and Statistical Mechanics (PDF - 2.1 MB)](https://bayes.wustl.edu/etj/articles/theory.1.pdf)." _Physical Review_ 106 (May 15, 1957): 620–630.
+*   Jaynes, E. T. "{{% resource_link "80a36a9a-ad61-43bb-aa52-a8e576160afc" "Information Theory and Statistical Mechanics (PDF - 2.1 MB)" %}}." _Physical Review_ 106 (May 15, 1957): 620–630.
 
 Assignments
 -----------
@@ -27,21 +27,21 @@ Resources
 
 The person most responsible for use of maximum entropy principles in various fields of science is Edwin T. Jaynes (July 5, 1922 – April 30, 1998).
 
-*   Jaynes, E. T. "[Information Theory and Statistical Mechanics (PDF - 2.1 MB)](http://bayes.wustl.edu/etj/articles/theory.1.pdf)." _Physical Review_ 106 (May 15, 1957): 620–630.  
+*   Jaynes, E. T. "{{% resource_link "f7199849-eb8f-4ce8-8302-d5f97fdb3caf" "Information Theory and Statistical Mechanics (PDF - 2.1 MB)" %}}." _Physical Review_ 106 (May 15, 1957): 620–630.  
     This is the seminal paper which really started the modern use of the Principle of Maximum Entropy in physics.
-*   ———. "[Information Theory and Statistical Mechanics II (PDF - 3.6 MB)](http://bayes.wustl.edu/etj/articles/theory.2.pdf)." _Physical Review_ 108 (October 15, 1957): 171–190.  
+*   ———. "{{% resource_link "a03b5409-7e70-4594-a631-ce213fa01945" "Information Theory and Statistical Mechanics II (PDF - 3.6 MB)" %}}." _Physical Review_ 108 (October 15, 1957): 171–190.  
     Continuation of the previous reference.
 
 ### Historical
 
-*   [Jaynes photograph](http://bayes.wustl.edu/etj/phys.photo.html)
-*   [Jaynes biography](http://bayes.wustl.edu/etj/etj.html)
-*   [Jaynes bibliography](http://bayes.wustl.edu/etj/node1.html), list of [unpublished works](http://bayes.wustl.edu/etj/node2.html), and [book reviews](http://bayes.wustl.edu/etj/node3.html)
+*   {{% resource_link "97b6d94c-7fe6-41f1-92aa-fa937e020724" "Jaynes photograph" %}}
+*   {{% resource_link "d1b126b2-9fbb-47fe-b894-6aa56c21e5c3" "Jaynes biography" %}}
+*   {{% resource_link "6e951d01-e222-4751-8781-b1448bcfae77" "Jaynes bibliography" %}}, list of {{% resource_link "3ae1a9f3-983f-473d-ba0a-3c8525fac35b" "unpublished works" %}}, and {{% resource_link "b633e3a9-8351-40f0-a28b-153b982654fd" "book reviews" %}}
 
-Jaynes knew, of course, about [Thomas Bayes](http://www-groups.dcs.st-andrews.ac.uk/%7Ehistory/Biographies/Bayes.html) and when on sabbatical in England sought out and photographed the [Bayes tombstone](http://bayes.wustl.edu/etj/bayes.html).
+Jaynes knew, of course, about {{% resource_link "9ec9d12f-86bf-4332-a49f-30ca69f2c848" "Thomas Bayes" %}} and when on sabbatical in England sought out and photographed the {{% resource_link "b7bb7296-e60c-4555-b2de-d3418523e696" "Bayes tombstone" %}}.
 
 ### Books
 
 *   The philosophy of assuming maximum uncertainty is discussed in Chapter 3 of Tribus, M. _Thermostatics and Thermodynamics_. Princeton, NJ: D. Van Nostrand Co, Inc., 1961.
-*   Another good explanation, in terms of estimating probabilities of an unfair die is in Jaynes, E. T. "[Information Theory and Statistical Mechanics (PDF)](http://bayes.wustl.edu/etj/articles/brandeis.pdf)." In _Statistical Physics_. Brandeis Summer Institute 1962. New York, NY: W. A. Benjamin, Inc., 1963. pp. 181–218.
-*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262120807) Personal history by Jaynes, Edwin T. "[Where Do We Stand on Maximum Entropy? (PDF - 2.5 MB)](http://bayes.wustl.edu/etj/articles/stand.on.entropy.pdf)" In [_The Maximum Entropy Formalism_](https://mitpress.mit.edu/9780262120807). Edited by Raphael D. Levine and Myron Tribus. Cambridge, MA: MIT Press, 1978. pp. 15–118. ISBN: 9780262120807.
+*   Another good explanation, in terms of estimating probabilities of an unfair die is in Jaynes, E. T. "{{% resource_link "b1d7f690-be21-4632-8cd9-4e85ab4c5d43" "Information Theory and Statistical Mechanics (PDF)" %}}." In _Statistical Physics_. Brandeis Summer Institute 1962. New York, NY: W. A. Benjamin, Inc., 1963. pp. 181–218.
+*   {{% resource_link "b501c1fa-4cdc-42a6-996f-0b88b4ee51d7" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Personal history by Jaynes, Edwin T. "{{% resource_link "cb76c495-2fb3-4547-93f6-3cdb68907f47" "Where Do We Stand on Maximum Entropy? (PDF - 2.5 MB)" %}}" In {{% resource_link "b501c1fa-4cdc-42a6-996f-0b88b4ee51d7" "_The Maximum Entropy Formalism_" %}}. Edited by Raphael D. Levine and Myron Tribus. Cambridge, MA: MIT Press, 1978. pp. 15–118. ISBN: 9780262120807.

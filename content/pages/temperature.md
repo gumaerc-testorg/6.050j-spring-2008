@@ -22,25 +22,25 @@ uid: 5ef930f5-8e59-5217-7087-d1304a2f4b4e
 
 Seminal papers on the Principle of Maximum Entropy by Edwin T. Jaynes (July 5, 1922 – April 30, 1998):
 
-- Jaynes, E. T. "[Information Theory and Statistical Mechanics (PDF - 2.1 MB)](http://bayes.wustl.edu/etj/articles/theory.1.pdf)." *Physical Review* 106 (May 15, 1957): 620–630.   
+- Jaynes, E. T. "{{% resource_link "f7199849-eb8f-4ce8-8302-d5f97fdb3caf" "Information Theory and Statistical Mechanics (PDF - 2.1 MB)" %}}." *Physical Review* 106 (May 15, 1957): 620–630.   
     This paper started the use of the Principle of Maximum Entropy in physics.
-- ———. "[Information Theory and Statistical Mechanics II (PDF - 3.6 MB)](http://bayes.wustl.edu/etj/articles/theory.2.pdf)." *Physical Review* 108 (October 15, 1957): 171–190.   
+- ———. "{{% resource_link "a03b5409-7e70-4594-a631-ce213fa01945" "Information Theory and Statistical Mechanics II (PDF - 3.6 MB)" %}}." *Physical Review* 108 (October 15, 1957): 171–190.   
     Continuation of the previous reference.
 
 ### Historical
 
-- [Sadi Carnot biography](http://www-groups.dcs.st-andrews.ac.uk/%7Ehistory/Biographies/Carnot_Sadi.html)
-- [William Thomson (Lord Kelvin) biography](http://www-groups.dcs.st-andrews.ac.uk/%7Ehistory/Biographies/Thomson.html)
-- [Gabriel Fahrenheit biography](http://www.notablebiographies.com/Du-Fi/Fahrenheit-Gabriel.html)
-- [Anders Celsius biography](http://www.notablebiographies.com/Ca-Ch/Celsius-Anders.html)
-- [William Rankine biography](http://www-groups.dcs.st-andrews.ac.uk/%7Ehistory/Biographies/Rankine.html)
-- [J. Willard Gibbs biography](http://www-groups.dcs.st-andrews.ac.uk/%7Ehistory/Biographies/Gibbs.html)
+- {{% resource_link "52db06ea-d7ab-472b-8865-947c44c55573" "Sadi Carnot biography" %}}
+- {{% resource_link "73760a18-c24d-479a-ab3c-c847efd2f943" "William Thomson (Lord Kelvin) biography" %}}
+- {{% resource_link "762fe129-97a1-4929-a948-7840c808ecf5" "Gabriel Fahrenheit biography" %}}
+- {{% resource_link "fc43e438-dddc-4969-bf73-1f4cf45892ac" "Anders Celsius biography" %}}
+- {{% resource_link "801fcd54-49ee-4ee6-abc4-95bc07d7819d" "William Rankine biography" %}}
+- {{% resource_link "6f717f12-471f-4679-8a7e-dcfd993b9b9e" "J. Willard Gibbs biography" %}}
 - Cercignani, Carlo. *Ludwig Boltzmann, The Man Who Trusted Atoms*. Oxford, UK: Oxford University Press, 2006. ISBN: 9780198570646.   
     Biography of Ludwig Boltzmann, Austrian physicist, 1844–1906, who was a pioneer in thermodynamics and entropy.
-- [Ludwig Boltzmann biography](http://www-groups.dcs.st-andrews.ac.uk/%7Ehistory/Biographies/Boltzmann.html)
+- {{% resource_link "8686e3e2-c8f0-4169-8f80-44d0e9ee4098" "Ludwig Boltzmann biography" %}}
 - Truesdell, C. *The Tragicomical History of Thermodynamics, 1822–1854*. Berlin, Germany: Springer-Verlag, 1980. ISBN: 9780387904030.   
     History of the twisted and convoluted development of the difficult concept of entropy. Professor Truesdell died January 14, 2000 at the age of 80. He retired from the faculty at Johns Hopkins University in 1989.
-- Edwin T. Jaynes [biography](http://bayes.wustl.edu/etj/etj.html), [photograph](http://bayes.wustl.edu/etj/phys.photo.html), and [bibliography](http://bayes.wustl.edu/etj/node1.html).
+- Edwin T. Jaynes {{% resource_link "d1b126b2-9fbb-47fe-b894-6aa56c21e5c3" "biography" %}}, {{% resource_link "97b6d94c-7fe6-41f1-92aa-fa937e020724" "photograph" %}}, and {{% resource_link "6e951d01-e222-4751-8781-b1448bcfae77" "bibliography" %}}.
 
 ### Books
 
