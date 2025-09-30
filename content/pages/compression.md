@@ -11,10 +11,10 @@ uid: 2dcc8474-126c-fe52-468d-88a8358a4a30
 
 - {{% resource_link "9f67d1d4-14e4-46c9-b559-25ab92c17c15" "Notes, Chapter 3: Compression (PDF)" %}}
 - Shutter Telegraph Codewords
-- [Graphics Interchange Format (GIF87) Specification](http://www.w3.org/Graphics/GIF/spec-gif87.txt) (complete, p. 9)
-- [GIF Patent Controversy](https://groups.csail.mit.edu/mac/projects/lpf/Patents/Gif/Gif.html)
-    - Two Unisys statements: [License Information](http://burnallgifs.org/archives/lzw-main.html)
-- Six-page excerpt from [JPEG FAQ](http://www.faqs.org/faqs/jpeg-faq/part1/)
+- {{% resource_link "3f707708-bc62-4883-a4ca-4238451e930a" "Graphics Interchange Format (GIF87) Specification" %}} (complete, p. 9)
+- {{% resource_link "33932d48-404f-4cfb-8434-ce142cad6a56" "GIF Patent Controversy" %}}
+    - Two Unisys statements: {{% resource_link "8a98eef3-4800-4b3e-a402-ec54ef09ae8e" "License Information" %}}
+- Six-page excerpt from {{% resource_link "86e63d8b-d85b-45d9-8cfd-926d6960fec7" "JPEG FAQ" %}}
 - MP3 overview from Fraunhofer Institute, p. 3.
 
 ## Assignments
@@ -26,11 +26,11 @@ uid: 2dcc8474-126c-fe52-468d-88a8358a4a30
 
 ### Technical
 
-- [Flag of Germany](http://www.geographic.org/flags/germany_flags.html), the perfect example for run-length encoding
-- [JPEG FAQ part 1](http://www.faqs.org/faqs/jpeg-faq/part1) and [JPEG FAQ part 2](http://www.faqs.org/faqs/jpeg-faq/part2/)
-- Blackstock, Steve. "[LZW and GIF explained](http://www.cis.udel.edu/~amer/CISC651/lzw.and.gif.explained.html)." From Amer, Paul. [CISC 451/651: Data Compression in Multimedia](http://www.eecis.udel.edu/~amer/CISC651/651.html).
+- {{% resource_link "d3d7c239-64e7-4a4c-97d5-3d21d610895f" "Flag of Germany" %}}, the perfect example for run-length encoding
+- {{% resource_link "661f59b1-bf9b-467d-9015-0aea0a392b82" "JPEG FAQ part 1" %}} and {{% resource_link "b554e991-0497-4a49-9c29-20e272f8d51d" "JPEG FAQ part 2" %}}
+- Blackstock, Steve. "{{% resource_link "68781b16-7e76-41e0-8df7-49dd7e579e9d" "LZW and GIF explained" %}}." From Amer, Paul. {{% resource_link "60905445-300d-4525-b30b-28d6b56bb21c" "CISC 451/651: Data Compression in Multimedia" %}}.
 - Nelson, Mark. "LZW Data Compression." *Dr. Dobb's Journal* 14 (October 1989): 29-36.
-- [PNG](http://www.libpng.org/pub/png/pngdocs.html), an alternative to GIF
+- {{% resource_link "5dea6632-59c0-4a40-ba9d-4500ba3804ee" "PNG" %}}, an alternative to GIF
 
 ### Historical
 
@@ -41,6 +41,6 @@ uid: 2dcc8474-126c-fe52-468d-88a8358a4a30
     Describes French and Swedish optical telegraphs, from the 1790s.
 - Standage, Tom. *The Victorian Internet*. New York, NY: Berkley Books, 1999, chapter 1. ISBN: 9780425171691.
 - Unisys/Compuserve GIF Controversy
-    - Unisys statements: [License info](http://burnallgifs.org/archives/lzw-main.html)
-    - Battilana, Michael C. "[The GIF Controversy: A Software Developer's Perspective](http://cloanto.com/users/mcb/19950127giflzw.html)." January 27, 1995.    
+    - Unisys statements: {{% resource_link "8a98eef3-4800-4b3e-a402-ec54ef09ae8e" "License info" %}}
+    - Battilana, Michael C. "{{% resource_link "ae03fc9e-71b7-4e4b-bf87-772865c0ff2c" "The GIF Controversy: A Software Developer's Perspective" %}}." January 27, 1995.    
         Historical summary, relatively dispassionate.

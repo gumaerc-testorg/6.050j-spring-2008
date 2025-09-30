@@ -25,7 +25,7 @@ Resources
 ### Technical
 
 *   Shannon, Claude E. "A Mathematical Theory of Communication." _Bell System Technical Journal_ 27 (July and October 1948): 379–423 (Part I), 623–656 (Part II). These seminal papers are available in several forms.
-    *   [Original papers (PDF)](http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf), with corrections but without Shannon's 1949 modifications.
+    *   {{% resource_link "5ee6ff02-a6ca-475b-9383-950b53f4e494" "Original papers (PDF)" %}}, with corrections but without Shannon's 1949 modifications.
     *   Shannon, Claude E., and Warren Weaver. _The Mathematical Theory of Communication_. Urbana, IL: University of Illinois Press, 1998. ISBN: 9780252725463. (Incorporating a number of modifications and corrections by Shannon.)
     *   Shannon, Claude E. "A Mathematical Theory of Communication." 50th Anniversary Edition, printed for the 1998 _IEEE International Symposium on Information Theory_. New York, NY: IEEE Press, August 16–21, 1998. ISBN: 9780780350007. (Based on 1949 book, with corrections.)
     *   Reprinted in _Key Papers in the Development of Information Theory_. Edited by D. Slepian. New York, NY: IEEE Press, 1974.
@@ -33,9 +33,9 @@ Resources
 
 ### Historical
 
-*   [Claude E. Shannon](http://www-groups.dcs.st-andrews.ac.uk/~history/Biographies/Shannon.html) (1916–2001). [Obituary](http://web.mit.edu/newsoffice/2001/obitshannon-0228.html), MIT News, Feb 28, 2001.
+*   {{% resource_link "90636bf0-057f-4eb2-b52b-3bb4354a4fca" "Claude E. Shannon" %}} (1916–2001). {{% resource_link "e384f981-3460-436d-8ef6-b8c5018b27d9" "Obituary" %}}, MIT News, Feb 28, 2001.
 *   Gallager, Robert G. "Claude E. Shannon: A Retrospective on His Life, Work, and Impact." _IEEE Transactions on Information Theory_ 47 (November 2001): 2681–2695.
-*   The process model is also known as Markov Processes or Markov Chains after [Andrei A. Markov](http://www-groups.dcs.st-andrews.ac.uk/~history/Biographies/Markov.html) (1856–1922).
+*   The process model is also known as Markov Processes or Markov Chains after {{% resource_link "c4314cf4-218b-4524-9edc-823e8c9fb215" "Andrei A. Markov" %}} (1856–1922).
 
 ### General Technical Books
 

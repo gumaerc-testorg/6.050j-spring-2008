@@ -25,21 +25,21 @@ uid: 04d3de47-9068-805c-423b-0e0a1cb71ed7
 
 There are many Web sites that discuss quantum mechanics. Naturally, some are better than others, and some assume a higher level of expertise on the part of visitors than others. Here are a few.
 
-- Links on [interpretation of quantum mechanics](http://www.upscale.utoronto.ca/GeneralInterest/Key/quinterp.htm)
-- [FAQ about measurements](http://www.mtnmath.com/faq/meas-qm.html) in quantum mechanics
-- [List of references](http://www.faqs.org/faqs/physics-faq/part1/section-4.html) including many books
+- Links on {{% resource_link "cb5b6a47-3ade-4c3e-b9b1-f7e6dd1059e7" "interpretation of quantum mechanics" %}}
+- {{% resource_link "17c16d05-fe29-46b2-b2f3-3dbbf0e23cf7" "FAQ about measurements" %}} in quantum mechanics
+- {{% resource_link "a635efca-9873-465a-ada0-72725a3a5c7d" "List of references" %}} including many books
 
 ### Historical
 
 The pioneers of quantum mechanics
 
-- [Werner Heisenberg (1901–1976) biography](http://www-groups.dcs.st-andrews.ac.uk/~history/Biographies/Heisenberg.html)
-- [Erwin Schrödinger (1887–1961) biography](http://www-groups.dcs.st-andrews.ac.uk/~history/Biographies/Schrodinger.html)
-- [Niels Bohr (1885–1962) biography](http://www-groups.dcs.st-andrews.ac.uk/~history/Biographies/Bohr_Niels.html)
-- [Albert Einstein (1879–1955) biography](http://www-groups.dcs.st-andrews.ac.uk/~history/Biographies/Einstein.html)
-- [Paul Dirac (1902–1984) biography](http://www-groups.dcs.st-andrews.ac.uk/~history/Biographies/Dirac.html)
-- [Max Planck (1858–1947) biography](http://www-groups.dcs.st-andrews.ac.uk/~history/Biographies/Planck.html)
-- [Louis de Broglie (1892–1987) biography](http://www-groups.dcs.st-andrews.ac.uk/~history/Biographies/Broglie.html)
+- {{% resource_link "cb8ad78e-8887-4302-87f5-3ae5a1569df3" "Werner Heisenberg (1901–1976) biography" %}}
+- {{% resource_link "1b5e8630-ec05-4345-8647-9ac524aad937" "Erwin Schrödinger (1887–1961) biography" %}}
+- {{% resource_link "6d5c3c0d-86e3-4c56-84a3-d9260bc2e217" "Niels Bohr (1885–1962) biography" %}}
+- {{% resource_link "1279101c-0b8d-4983-990e-0769eb303563" "Albert Einstein (1879–1955) biography" %}}
+- {{% resource_link "3371ef33-39c4-4658-846d-baa1e144b157" "Paul Dirac (1902–1984) biography" %}}
+- {{% resource_link "b4812c9d-ac2c-4ca5-874c-d012574c22e7" "Max Planck (1858–1947) biography" %}}
+- {{% resource_link "4c13006f-e247-438d-aceb-49f9aa6a8538" "Louis de Broglie (1892–1987) biography" %}}
 
 ### Books
 

@@ -24,7 +24,7 @@ Course Description
 
 This subject is designed for MIT freshmen. Academic credit of 9 units (less than that given by a typical MIT subject) is provided.
 
-Spring 2008 is the sixth offering of this subject. It was offered in Spring [2003](https://mtlsites.mit.edu/Courses/6.050/2003/index.html), [2004](https://mtlsites.mit.edu/Courses/6.050/2004/index.html), [2005](https://mtlsites.mit.edu/Courses/6.050/2005/index.html), [2006](https://mtlsites.mit.edu/Courses/6.050/2006/index.html), [2007](https://mtlsites.mit.edu/Courses/6.050/2007/index.html) and, before then, three times while being developed, under another number, in Spring 2000, 2001, and 2002.
+Spring 2008 is the sixth offering of this subject. It was offered in Spring {{% resource_link "5779a0c1-ad0c-4c71-a48a-4dc23e7f0b72" "2003" %}}, {{% resource_link "85d0b92a-90ef-48ef-9e6f-f9ce09bff34c" "2004" %}}, {{% resource_link "a4dd20bc-9cd9-47a3-8e57-86f6fc904008" "2005" %}}, {{% resource_link "e67bab89-8045-465e-9467-90da8f31f1d9" "2006" %}}, {{% resource_link "bcadda0c-b04d-44df-9d5c-242c58048179" "2007" %}} and, before then, three times while being developed, under another number, in Spring 2000, 2001, and 2002.
 
 This subject is offered jointly by the Department of Electrical Engineering and Computer Science and the Department of Mechanical Engineering. Students may sign up for either 2.110J or 6.050J.
 

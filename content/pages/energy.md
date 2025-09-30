@@ -26,24 +26,24 @@ Resources
 
 Seminal papers on the Principle of Maximum Entropy by Edwin T. Jaynes (July 5, 1922 – April 30, 1998):
 
-*   Jaynes, E. T. "[Information Theory and Statistical Mechanics (PDF - 2.1 MB)](http://bayes.wustl.edu/etj/articles/theory.1.pdf)." _Physical Review_ 106 (May 15, 1957): 620–630.  
+*   Jaynes, E. T. "{{% resource_link "f7199849-eb8f-4ce8-8302-d5f97fdb3caf" "Information Theory and Statistical Mechanics (PDF - 2.1 MB)" %}}." _Physical Review_ 106 (May 15, 1957): 620–630.  
     This paper started the use of the Principle of Maximum Entropy in physics.
-*   ———. "[Information Theory and Statistical Mechanics II (PDF - 3.6 MB)](http://bayes.wustl.edu/etj/articles/theory.2.pdf)." _Physical Review_ 108 (October 15, 1957): 171–190.  
+*   ———. "{{% resource_link "a03b5409-7e70-4594-a631-ce213fa01945" "Information Theory and Statistical Mechanics II (PDF - 3.6 MB)" %}}." _Physical Review_ 108 (October 15, 1957): 171–190.  
     Continuation of the previous reference.
 *   The philosophy of assuming maximum uncertainty is discussed in Chapter 3 of Tribus, M. _Thermostatics and Thermodynamics_. Princeton, NJ: D. Van Nostrand Co, Inc., 1961.
-*   Another good explanation, in terms of estimating probabilities of an unfair die is in Jaynes, E. T. "[Information Theory and Statistical Mechanics (PDF)](http://bayes.wustl.edu/etj/articles/brandeis.pdf)." In _Statistical Physics_. Brandeis Summer Institute 1962. New York, NY: W. A. Benjamin, Inc., 1963. pp. 181–218.
-*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262120807) Personal history by Jaynes, Edwin T. "[Where Do We Stand on Maximum Entropy? (PDF - 2.5 MB)](http://bayes.wustl.edu/etj/articles/stand.on.entropy.pdf)" In [_The Maximum Entropy Formalism_](https://mitpress.mit.edu/9780262120807). Edited by Raphael D. Levine and Myron Tribus. Cambridge, MA: MIT Press, 1978. pp. 15-118. ISBN: 9780262120807.
+*   Another good explanation, in terms of estimating probabilities of an unfair die is in Jaynes, E. T. "{{% resource_link "b1d7f690-be21-4632-8cd9-4e85ab4c5d43" "Information Theory and Statistical Mechanics (PDF)" %}}." In _Statistical Physics_. Brandeis Summer Institute 1962. New York, NY: W. A. Benjamin, Inc., 1963. pp. 181–218.
+*   {{% resource_link "b501c1fa-4cdc-42a6-996f-0b88b4ee51d7" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Personal history by Jaynes, Edwin T. "{{% resource_link "cb76c495-2fb3-4547-93f6-3cdb68907f47" "Where Do We Stand on Maximum Entropy? (PDF - 2.5 MB)" %}}" In {{% resource_link "b501c1fa-4cdc-42a6-996f-0b88b4ee51d7" "_The Maximum Entropy Formalism_" %}}. Edited by Raphael D. Levine and Myron Tribus. Cambridge, MA: MIT Press, 1978. pp. 15-118. ISBN: 9780262120807.
 
 ### Historical
 
-*   [Joseph-Louis Lagrange biography](http://www-groups.dcs.st-andrews.ac.uk/%7Ehistory/Biographies/Lagrange.html)
+*   {{% resource_link "bbbe2417-b720-4061-84f7-93a3e704baac" "Joseph-Louis Lagrange biography" %}}
 *   Cercignani, Carlo. _Ludwig Boltzmann, The Man Who Trusted Atoms_. Oxford, UK: Oxford University Press, 2006. ISBN: 9780198570646.  
     Biography of Ludwig Boltzmann, Austrian physicist, 1844–1906, who was a pioneer in thermodynamics and entropy.
-*   [Ludwig Boltzmann biography](https://www.boltzmann.com/ludwig-boltzmann/biography/)
-*   Another Ludwig [Boltzmann biography](https://www.britannica.com/biography/Ludwig-Boltzmann)
+*   {{% resource_link "afa45767-f3d3-41f6-84f3-8472df4a93bf" "Ludwig Boltzmann biography" %}}
+*   Another Ludwig {{% resource_link "5f8c1e0e-4a33-4aa0-9156-fee009f1a280" "Boltzmann biography" %}}
 *   Truesdell, C. _The Tragicomical History of Thermodynamics, 1822–1854_. Berlin, Germany: Springer-Verlag, 1980. ISBN: 9780387904030.  
     History of the twisted and convoluted development of the difficult concept of entropy. Professor Truesdell died January 14, 2000 at the age of 80. He retired from the faculty at Johns Hopkins University in 1989.
-*   Edwin T. Jaynes [biography](http://bayes.wustl.edu/etj/etj.html), [photograph](http://bayes.wustl.edu/etj/phys.photo.html), and [bibliography](http://bayes.wustl.edu/etj/node1.html).
+*   Edwin T. Jaynes {{% resource_link "d1b126b2-9fbb-47fe-b894-6aa56c21e5c3" "biography" %}}, {{% resource_link "97b6d94c-7fe6-41f1-92aa-fa937e020724" "photograph" %}}, and {{% resource_link "6e951d01-e222-4751-8781-b1448bcfae77" "bibliography" %}}.
 
 ### Books
 

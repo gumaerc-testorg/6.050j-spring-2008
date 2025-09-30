@@ -38,14 +38,14 @@ uid: c7e90fb8-77bc-7b01-c552-e131a7f97b65
 
 ### Technical
 
-- Prof. [John Preskill](http://theory.caltech.edu/~preskill/) teaches a [course on quantum information](http://www.theory.caltech.edu/~preskill/ph219/index.html) at Caltech. [Lecture notes](http://theory.caltech.edu/~preskill/ph219/chap2_13.pdf).
+- Prof. {{% resource_link "1e2829a1-cc62-471b-9527-a200aa41f03b" "John Preskill" %}} teaches a {{% resource_link "f1e237f9-6aa7-4fe1-a21c-7685824e7935" "course on quantum information" %}} at Caltech. {{% resource_link "25268dd7-25c1-4328-9502-016c158c4cf9" "Lecture notes" %}}.
 - Centre for Quantum Computation, University of Oxford.
-- One of the most active industrial research groups in quantum information is at [IBM Research Yorktown](https://www.research.ibm.com/labs/watson/). This was the home of one of the early leaders in the field, the late Rolf Landauer, and younger people including Charles Bennett, who is known for his work on quantum teleportation.
+- One of the most active industrial research groups in quantum information is at {{% resource_link "adf2ffdd-e57c-4089-abfc-2c8e30c9683d" "IBM Research Yorktown" %}}. This was the home of one of the early leaders in the field, the late Rolf Landauer, and younger people including Charles Bennett, who is known for his work on quantum teleportation.
 
 ### Historical
 
-- [Rolf Landauer obituary](https://www.nytimes.com/1999/04/30/nyregion/rolf-landauer-pioneer-in-computer-theory-dies-at-72.html)
-- [Richard P. Feynman biography](http://www-groups.dcs.st-andrews.ac.uk/~history/Biographies/Feynman.html). Feynman, an MIT graduate, was curious about the nature of quantum information.
+- {{% resource_link "a4843d93-c7a4-4ef8-857b-9e0353e5414c" "Rolf Landauer obituary" %}}
+- {{% resource_link "0bbda1c2-2e8d-4e8c-99a0-136a9a3bc847" "Richard P. Feynman biography" %}}. Feynman, an MIT graduate, was curious about the nature of quantum information.
 
 ### Books
 
@@ -60,7 +60,7 @@ There are already many books and conferences on quantum information, even though
 - Johnson, George. *A Shortcut through Time: The Path to the Quantum Computer*. New York, NY: Alfred A. Knopf, 2003. ISBN: 9780375411939.    
     This book, written by a New York Times science writer, is for the general public and may not be technical enough for some readers.
 
-[James Clerk Maxwell](http://www-groups.dcs.st-andrews.ac.uk/~history/Biographies/Maxwell.html) opened up the relationship between information and entropy by proposing what is called today Maxwell's Demon, which would apparently violate the Second Law of Thermodynamics. Maxwell's Demon in its many forms has captured the imagination of both scientists and the general public.
+{{% resource_link "5b69bcb4-5392-461e-83a7-7637e0cf10a6" "James Clerk Maxwell" %}} opened up the relationship between information and entropy by proposing what is called today Maxwell's Demon, which would apparently violate the Second Law of Thermodynamics. Maxwell's Demon in its many forms has captured the imagination of both scientists and the general public.
 
 - Brillouin, Leon. *Science and Information Theory*. 2nd ed. New York, NY: Dover, 2004. ISBN: 9780486439181.    
     Topics include Brownian motion, thermal noise, information theory, entropy, and the author's personal view of Maxwell's Demon.
